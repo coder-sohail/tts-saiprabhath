@@ -27,4 +27,4 @@ Deploy to Streamlit Cloud:
 4. Deploy
 
 ## Author
-[Sergej Dikun](https://github.com/Serhazor)
+[Sai Prabhath](https://github.com/saiprabhath07)
