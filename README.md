@@ -14,7 +14,8 @@ A Streamlit web app that converts text to speech using Google Text-to-Speech (gT
 
 ## Installation
 1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
+2. Create a virtual environment if required
+3. Install dependencies: `pip install -r requirements.txt`
 
 ## How to run locally
 Run `streamlit run txtToSpeech.py`
